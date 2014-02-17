@@ -1,0 +1,9 @@
+Building Insanitycoin
+
+See doc/readme-qt.rst for instructions on building Insanitycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Insanitycoin.
+
+See doc/build-*.txt for instructions on building insanitycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Insanitycoin.
