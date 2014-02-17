@@ -8,6 +8,6 @@
 - 12 hour retarget
 - 5 confirmations
 
-More: https://bitcointalk.org/index.php?topic=470931.0
+More: https://bitcointalk.org/index.php?topic=471166
 
 Explorer: http://5.9.111.71:2750/chain/InsanityCoin
